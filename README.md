@@ -45,7 +45,7 @@ cd ../../..
 
 ## 📦 Data
 
-RAGenCO uses the official train, validation, and test splits from [ML4CO-Bench-101](https://github.com/Thinklab-SJTU/ML4CO-Bench-101). The datasets are not included in this repository; pass their paths through the command line arguments described below.
+RAGenCO uses the official train, validation, and test splits from [ML4CO-Bench-101](https://github.com/Thinklab-SJTU/ML4CO-Bench-101).
 
 TSP data is stored line by line as:
 
