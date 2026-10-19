@@ -1,6 +1,6 @@
-# RAGenCO: Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization
+# Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization
 
-This repository contains the official implementation of the NeurIPS 2026 paper [RAGenCO: Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization](https://openreview.net/forum?id=dkHKGHN1xC).
+This repository contains the official implementation of the NeurIPS 2026 paper [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization](https://openreview.net/forum?id=dkHKGHN1xC).
 
 Authors: [**Bohao Li**](https://53mins.github.io/BohaoLi/) (**Project lead**)  |  Yangming Guo  |  Pei He  |  Ying Li
 
