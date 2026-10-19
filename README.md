@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the NeurIPS 2026 paper [Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization](https://openreview.net/forum?id=dkHKGHN1xC).
 
-Authors: [**Bohao Li**](https://53mins.github.io/BohaoLi/) (**Project lead**)  |  Yangming Guo  |  Pei He  |  Ying Li
+Authors: [**Bohao Li**](https://53mins.github.io/BohaoLi/) (**Project lead**)  |  Pei He  |  Yangming Guo  |  Ying Li
 
 ## Abstract
 
@@ -163,7 +163,7 @@ If you find RAGenCO useful in your research, please cite:
 ```bibtex
 @inproceedings{li2026ragenco,
   title={Relaxation-Aligned State Control for Test-Time Scaling in Generative Combinatorial Optimization},
-  author={Bohao Li and Yangming Guo and Pei He and Ying Li},
+  author={Bohao Li and Pei He and Yangming Guo and Ying Li},
   booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
   year={2026}
 }
